@@ -1,3 +1,3 @@
-# T20-worldcup
+T20-worldcup
 <br>
 Winner : India
